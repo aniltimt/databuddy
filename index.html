@@ -9,6 +9,19 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="manifest" href="/manifest.json">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "8421440b-a0f4-4483-94de-afa3cebeb77e",
+      autoRegister: false,
+      notifyButton: {
+        enable: true /* Set to false to hide */
+      }
+    }]);
+    </script>
+
     <title>Databuddy - Free Data Recharge</title>    
     <meta name="description" content="Databuddy is an android app that lets you earn free cash/money by performing simple tasks like installing, downloading & registering on the top trending free android Apps, Games & website. Earn cash on every action on Databuddy which can be redeemed against data recharge." />
     <meta name="keywords" content="databuddy, free data, free internet, survey, surveys, airtime, topup, mobile, cell phone, free, earn airtime" />
