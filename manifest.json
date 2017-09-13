@@ -1,7 +1,7 @@
 {
   "name": "Databuddy.co",
   "short_name": "Databuddy",
-  "start_url": "https://databuddy.co",
+  "start_url": "http://bit.ly/databuddy",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
   "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID"
