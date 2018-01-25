@@ -1,0 +1,304 @@
+﻿body 
+{
+    background: #fff;
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+  margin:0;
+  padding:0;
+}
+.hotpicdiv
+  {
+    width: 100%;
+  height: 38px !important;
+  background: #042a33 url('http://203.122.58.93/newimages/menubg.png') repeat-x;
+  margin: 3px 0 0 0;
+  clear: both;
+  color: #fff;
+  font-family: Verdana, Geneva, sans-serif;
+  line-height: 30px;
+  }
+.fullwidth
+{
+    width:100%;
+}
+.topredstrip
+{
+background-color:#C00000;border-top-width:0em;border-bottom-color:#ffffff;border-left-width:0em;border-left-color:#ffffff;border-bottom-width:0.5em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;padding:0em 0.5em 0em 0.5em;border-collapse:collapse;border-style:solid;border-right-width:0em;
+}
+.redstriptxt
+{
+color:#C00000;font-size:0.4em;text-decoration:none;
+}
+.anchor
+{
+font-size:0.9em;text-decoration:none;    
+}
+#logo
+{
+    max-width:100%;
+}
+.silver
+{
+background-color: #064856;
+  text-align: left;
+  border-top-width: 0.3em;
+  vertical-align: top;
+  border-bottom-color: #064856;
+  border-left-width: 0em;
+  border-left-color: #064856;
+  border-bottom-width: 0em;
+  border-top-color: #064856;
+  border-right-color: #064856;
+  border-color: #e5e9ea;
+  padding: 0em 0em 0em 0.2em;
+  border-collapse: collapse;
+  border-style: solid;
+  border-right-width: 0em;    
+}
+.tiitle
+{
+color:#FFFFFF;font-size:1em;text-decoration:none;    
+}
+.silver1
+{
+background-color:#242D33;padding:0.2em 0em 0em 0em;text-align:center;vertical-align:middle;    
+}
+.yellowstrips
+{
+background-color:#FFC000;border-top-color:#e0e0e0;border-right-color:#e0e0e0;border-left-color:#e0e0e0;border-color:#e0e0e0;padding:0.4em 0em 0.4em 0em;border-top-left-radius:0.3em;border-top-right-radius:0.3em;border-collapse:collapse;border-bottom-width:0em;text-align:center;border-left-width:0.1em;border-bottom-right-radius:0.3em;border-style:solid;border-right-width:0.1em;border-top-width:0.2em;border-bottom-left-radius:0.3em;border-bottom-color:#e0e0e0;    
+}
+.txts
+{
+color:#000000;font-family:Tahoma;font-size:0.8em;font-weight:bold;text-decoration:none;
+}
+.blacktxts
+{
+color:#000000;font-family:Tahoma;font-size:0.8em;font-weight:bold;text-decoration:none;    
+}
+.redstrip
+{
+background-color:#C00000;border-top-width:0.3em;border-bottom-color:#e0e0e0;border-left-width:0em;border-left-color:#e0e0e0;border-bottom-width:0.7em;border-top-color:#e0e0e0;border-right-color:#e0e0e0;border-color:#e0e0e0;padding:0em 0.5em 0em 0.5em;border-collapse:collapse;border-style:solid;border-right-width:0em;    
+}
+.redtxt
+{
+font-size:0.9em;text-decoration:none;"><span style="color:#C00000;font-size:0.4em;text-decoration:none;    
+}
+.subscribestrip
+{
+    background-color:#808080;text-align:center;border-top-width:0em;vertical-align:middle;border-bottom-color:#e0e0e0;border-left-width:0em;border-left-color:#e0e0e0;border-bottom-width:0.4em;border-top-color:#e0e0e0;border-right-color:#e0e0e0;border-color:#e0e0e0;padding:0.1em 0.5em 0.1em 0.5em;border-collapse:collapse;border-style:solid;border-right-width:0em;
+}
+.subtxt
+{
+    color:#FFFFFF;font-family:Verdana;font-size:0.9em;text-decoration:none;
+}
+.imageboxes
+{
+padding: 0.2em 0.2em 0.2em 0.2em;
+  border: 1px solid #e0e0e0;
+  border-color: #e0e0e0;
+  border-top-color: #e0e0e0;
+  border-bottom-color: #e0e0e0;
+  border-right-color: #e0e0e0;
+  border-left-color: #e0e0e0;
+  text-align: center;
+  width: 530px;
+}
+.textdec
+{
+font-size:0.9em;text-decoration:none;
+}
+.imagebox
+{
+    border-style:solid;border-color:#e0e0e0;border-top-color:#e0e0e0;border-bottom-color:#e0e0e0;border-right-color:#e0e0e0;border-left-color:#e0e0e0;text-align:center;
+}
+.timmytxt
+{
+color:#000000;font-size:0.8em;text-decoration:none;
+}
+.brownstrips
+{
+background-color:#808080;padding:0em 0.2em 0em 0em;
+}
+.brownstrips1
+{
+    background-color:#808080;padding:0em 0.2em 0em 0em;text-align:right;
+}
+.silverstripe
+{
+background-color:#E0E0E0;border-top-width:0.1em;border-bottom-color:#ffffff;border-left-width:0.1em;border-left-color:#ffffff;border-bottom-width:0.1em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;border-collapse:collapse;border-style:solid;border-right-width:0.1em;    
+}
+.innertxt
+{
+    font-size:0.9em;text-decoration:none;
+}
+.innertxt1
+{
+color:#E0E0E0;font-size:0.4em;text-decoration:none;
+}
+.redstrip1
+{
+background-color:#C00000;border-top-width:0.3em;border-bottom-color:#e0e0e0;border-left-width:0em;border-left-color:#e0e0e0;border-bottom-width:0.7em;border-top-color:#e0e0e0;border-right-color:#e0e0e0;border-color:#e0e0e0;padding:0em 0.5em 0em 0.5em;border-collapse:collapse;border-style:solid;border-right-width:0em;
+}
+.morecat
+{
+    background-color:#E0E0E0;text-align:center;border-top-width:0em;
+    border-bottom-color:#ffffff;border-left-width:0em;border-left-color:#ffffff;
+    border-bottom-width:0.1em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;
+    padding:0.5em 0em 0.5em 0em;border-collapse:collapse;border-style:solid;border-right-width:0em;
+      width: 100%;
+  height: 38px !important;
+  background: #042a33 url('newimages/menubg.png') repeat-x;
+  margin: 3px 0 0 0;
+  clear: both;
+  color: #fff;
+  font-family: Verdana, Geneva, sans-serif;
+}
+#txt1
+{
+    color:#C00000;font-size:0.4em;text-decoration:none;
+}
+#morecattxt
+{
+    font-size:0.9em;text-decoration:none;
+}
+#morecat1
+{
+    color:white;font-size:1.2em;font-weight:bold;text-decoration:none;
+}
+.cat
+{
+    background-color:#808080;text-align:center;border-top-width:0.1em;
+    border-bottom-color:#ffffff;border-left-width:0.2em;border-left-color:#ffffff;
+    border-bottom-width:0.2em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;padding:0.3em 0em 0.3em 0em;border-collapse:collapse;border-style:solid;border-right-width:0.2em;
+      width: 50%;
+  height: 38px !important;
+  background: #042a33 url('newimages/menubg.png') repeat-x;
+  margin: 3px 0 0 0;
+  clear: both;
+  color: #fff;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.maggals
+{
+    color:#FFFFFF;font-family:Verdana;font-size:1em;text-decoration:none;
+}
+#lowerstrip
+{
+    background-color:#E0E0E0;text-align:center;border-top-width:0.1em;border-bottom-color:#ffffff;border-left-width:0.2em;border-left-color:#ffffff;border-bottom-width:0.1em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;padding:1.2em 0em 1.2em 0em;border-collapse:collapse;border-style:solid;border-right-width:0.2em;
+}
+#lowertxt
+{
+    font-size:0.9em;text-decoration:none;
+}
+#lowerttxt1
+{
+    color:#E0E0E0;font-size:1.2em;font-weight:bold;text-decoration:none;
+}
+.myacc
+{
+background-color:#E0E0E0;text-align:center;border-top-width:0.1em;border-bottom-color:#ffffff;border-left-width:0.2em;border-left-color:#ffffff;border-bottom-width:0.2em;border-top-color:#ffffff;border-right-color:#ffffff;border-color:#ffffff;border-collapse:collapse;border-style:solid;border-right-width:0.2em;    
+}
+.myacctxt
+{
+    color:#000000;font-family:Verdana;font-size:0.9em;text-decoration:none;
+}
+#copytxt
+{
+background-color:#E0E0E0;padding:0em 0em 0.5em 0em;text-align:center;    
+}
+#copytxt1
+{
+    font-size:0.9em;text-decoration:none;
+}
+#copytxt2
+{
+    color:#000000;font-size:0.9em;text-decoration:none;
+}
+#logodiv
+{
+text-align:center;
+}
+#subtxt
+{
+    color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+#moretxt
+{
+color:#FFFFFF;font-size:0.9em;text-decoration:none;
+}
+#txtouter
+{
+font-size:0.9em;text-decoration:none;
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+ 	.timmytxtdiv
+  	{    white-space: nowrap; 
+    width: 4.5em; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+      margin-left: auto;
+  margin-right: AUTO; 
+    
+  	}
+  	
+ }
+ 
+ 
+ @media screen and (min-width: 481px) {
+ 	.timmytxtdiv
+  	{    white-space: nowrap; 
+    width: 7em; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+      margin-left: auto;
+  margin-right: AUTO; 
+    
+  	}
+ }
+ 
+ 
+  @media screen and (min-width: 769px) {
+ 	.timmytxtdiv
+  	{ white-space: nowrap;
+  width: 100%;
+  text-overflow: clip; 
+    margin-left: auto;
+  margin-right: AUTO;
+  	}
+ }
+ 
+ 
+ 
+ 
+  @media screen and (min-width: 1025px) {
+  
+/*Laptop Size Goes Here*/
+
+  	
+.timmytxtdiv
+  	{ float:left;
+  	}
+  	.timmytxtdiv
+  	{   
+  white-space: nowrap;
+  width: 100%;
+  text-overflow: clip; 
+    margin-left: auto;
+  margin-right: AUTO;
+    }
+
+
+/*End laptop Styles*/
+  }
+  
+  
