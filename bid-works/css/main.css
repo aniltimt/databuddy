@@ -2754,6 +2754,7 @@
 
 				.feature .content {
 					padding: 1em 2em 0.1em 2em;
+					line-height: 20px;
 				}
 
 		}
@@ -2778,6 +2779,7 @@
 			.feature .content {
 				padding: 2em 2em 0.1em 2em;
 				width: 100%;
+				line-height: 20px;
 			}
 
 		}
@@ -2790,6 +2792,7 @@
 
 				.feature .content {
 					padding: 2em 1em 0.1em 1em;
+					line-height: 20px;
 				}
 
 		}
